@@ -1,0 +1,108 @@
+[2023-01-01] arranging librarian arranged all the books
+[2023-01-02] RIVER-21029855 queried B-0002 from self-service machine
+[2023-01-02] self-service machine provided information of B-0002
+[2023-01-02] borrowing and returning librarian lent RIVER-B-0002 to RIVER-21029855
+[2023-01-02] RIVER-21029855 borrowed RIVER-B-0002 from borrowing and returning librarian
+(State) [2023-01-02] B-0002 transfers from available to user
+[2023-01-04] arranging librarian arranged all the books
+[2023-01-06] TURN-21029855 queried B-0003 from self-service machine
+[2023-01-06] self-service machine provided information of B-0003
+[2023-01-06] borrowing and returning librarian lent TURN-B-0003 to TURN-21029855
+[2023-01-06] TURN-21029855 borrowed TURN-B-0003 from borrowing and returning librarian
+(State) [2023-01-06] B-0003 transfers from available to user
+[2023-01-07] arranging librarian arranged all the books
+[2023-01-10] arranging librarian arranged all the books
+[2023-01-10] RIVER-21164853 queried B-0004 from self-service machine
+[2023-01-10] self-service machine provided information of B-0004
+[2023-01-10] borrowing and returning librarian lent RIVER-B-0004 to RIVER-21164853
+[2023-01-10] RIVER-21164853 borrowed RIVER-B-0004 from borrowing and returning librarian
+(State) [2023-01-10] B-0004 transfers from available to user
+[2023-01-13] arranging librarian arranged all the books
+[2023-01-16] arranging librarian arranged all the books
+[2023-01-16] TURN-21164853 queried C-0003 from self-service machine
+[2023-01-16] self-service machine provided information of C-0003
+[2023-01-16] self-service machine lent TURN-C-0003 to TURN-21164853
+[2023-01-16] TURN-21164853 borrowed TURN-C-0003 from self-service machine
+(State) [2023-01-16] C-0003 transfers from available to user
+[2023-01-19] arranging librarian arranged all the books
+[2023-01-22] arranging librarian arranged all the books
+[2023-01-22] RIVER-21298648 queried B-0002 from self-service machine
+[2023-01-22] self-service machine provided information of B-0002
+[2023-01-22] borrowing and returning librarian lent RIVER-B-0002 to RIVER-21298648
+[2023-01-22] RIVER-21298648 borrowed RIVER-B-0002 from borrowing and returning librarian
+(State) [2023-01-22] B-0002 transfers from available to user
+[2023-01-25] arranging librarian arranged all the books
+[2023-01-28] arranging librarian arranged all the books
+[2023-01-28] RIVER-21389823 queried C-0001 from self-service machine
+[2023-01-28] self-service machine provided information of C-0001
+[2023-01-28] self-service machine lent RIVER-C-0001 to RIVER-21389823
+[2023-01-28] RIVER-21389823 borrowed RIVER-C-0001 from self-service machine
+(State) [2023-01-28] C-0001 transfers from available to user
+[2023-01-31] arranging librarian arranged all the books
+[2023-02-03] arranging librarian arranged all the books
+[2023-02-06] arranging librarian arranged all the books
+[2023-02-09] arranging librarian arranged all the books
+[2023-02-09] TURN-21029855 queried C-0002 from self-service machine
+[2023-02-09] self-service machine provided information of C-0002
+[2023-02-09] self-service machine lent TURN-C-0002 to TURN-21029855
+[2023-02-09] TURN-21029855 borrowed TURN-C-0002 from self-service machine
+(State) [2023-02-09] C-0002 transfers from available to user
+[2023-02-12] arranging librarian arranged all the books
+[2023-02-14] TURN-21029855 queried B-0003 from self-service machine
+[2023-02-14] self-service machine provided information of B-0003
+[2023-02-14] borrowing and returning librarian refused lending TURN-B-0003 to TURN-21029855
+(State) [2023-02-14] B-0003 transfers from available to department
+[2023-02-15] arranging librarian arranged all the books
+[2023-02-18] arranging librarian arranged all the books
+[2023-02-18] RIVER-21164853 got punished by borrowing and returning librarian
+[2023-02-18] borrowing and returning librarian received RIVER-21164853's fine
+[2023-02-18] RIVER-21164853 returned RIVER-B-0004 to borrowing and returning librarian
+[2023-02-18] borrowing and returning librarian collected RIVER-B-0004 from RIVER-21164853
+(State) [2023-02-18] B-0004 transfers from user to department
+[2023-02-21] arranging librarian arranged all the books
+[2023-02-24] arranging librarian arranged all the books
+[2023-02-25] TURN-21164853 returned TURN-C-0003 to self-service machine
+[2023-02-25] self-service machine collected TURN-C-0003 from TURN-21164853
+(State) [2023-02-25] C-0003 transfers from user to department
+[2023-02-27] arranging librarian arranged all the books
+[2023-03-02] arranging librarian arranged all the books
+[2023-03-02] RIVER-21389823 returned RIVER-C-0001 to self-service machine
+[2023-03-02] self-service machine collected RIVER-C-0001 from RIVER-21389823
+(State) [2023-03-02] C-0001 transfers from user to department
+[2023-03-05] arranging librarian arranged all the books
+[2023-03-08] arranging librarian arranged all the books
+[2023-03-11] arranging librarian arranged all the books
+[2023-03-11] TURN-21029855 returned TURN-C-0002 to self-service machine
+[2023-03-11] self-service machine collected TURN-C-0002 from TURN-21029855
+(State) [2023-03-11] C-0002 transfers from user to department
+[2023-03-14] arranging librarian arranged all the books
+[2023-03-17] arranging librarian arranged all the books
+(State) [2023-03-18] B-0003 transfers from user to smeared
+[2023-03-20] arranging librarian arranged all the books
+[2023-03-23] arranging librarian arranged all the books
+[2023-03-23] TURN-21029855 got punished by borrowing and returning librarian
+[2023-03-23] borrowing and returning librarian received TURN-21029855's fine
+[2023-03-23] TURN-21029855 got punished by borrowing and returning librarian
+[2023-03-23] borrowing and returning librarian received TURN-21029855's fine
+[2023-03-23] TURN-21029855 returned TURN-B-0003 to borrowing and returning librarian
+[2023-03-23] borrowing and returning librarian collected TURN-B-0003 from TURN-21029855
+(State) [2023-03-23] B-0003 transfers from user to department
+[2023-03-23] TURN-B-0003 got repaired by logistics division in TURN
+(State) [2023-03-23] B-0003 transfers from smeared to repaired
+[2023-03-26] arranging librarian arranged all the books
+[2023-03-29] arranging librarian arranged all the books
+[2023-04-01] arranging librarian arranged all the books
+[2023-04-04] arranging librarian arranged all the books
+[2023-04-05] RIVER-21164853 queried B-0004 from self-service machine
+[2023-04-05] self-service machine provided information of B-0004
+[2023-04-05] borrowing and returning librarian lent RIVER-B-0004 to RIVER-21164853
+[2023-04-05] RIVER-21164853 borrowed RIVER-B-0004 from borrowing and returning librarian
+(State) [2023-04-05] B-0004 transfers from available to user
+[2023-04-07] arranging librarian arranged all the books
+[2023-04-10] arranging librarian arranged all the books
+[2023-04-13] arranging librarian arranged all the books
+[2023-04-16] arranging librarian arranged all the books
+[2023-04-19] arranging librarian arranged all the books
+[2023-04-20] RIVER-21298648 got punished by borrowing and returning librarian
+[2023-04-20] borrowing and returning librarian received RIVER-21298648's fine
+(State) [2023-04-20] B-0002 transfers from user to lost

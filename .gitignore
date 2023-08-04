@@ -1,0 +1,10 @@
+.idea
+*.iml
+out
+gen
+
+.vscode
+*.pdf
+*.exe
+
+*.xml
